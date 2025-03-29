@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zunairah-k
 - 👀 I’m interested in web development, app development, and building real-world tech solutions
-- 🌱 I’m currently learning HTML, CSS. and JavaScipt while working on team project
-- 💞️ I’m open to teaming up for student-led projects and hackathons
+- 🌱 Currently learning HTML, CSS and JavaScript while working on a team project
+- 🚀 Open to collaborating on student-led projects and hackathons
 - 📫 Reach me at: zunairahmaasfakhan@gmail.com
 - 😄 Pronouns: she/her
 
