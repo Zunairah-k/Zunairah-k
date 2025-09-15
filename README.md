@@ -1,4 +1,4 @@
-# Hi there, I'm Zunairah 👩‍💻
+![Zunairah](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=F7DF1E&center=true&vCenter=true&width=600&height=80&lines=Hey+there,+I'm+Zunairah+%F0%9F%91%8B)
 
 ## 🚀 About Me
 
