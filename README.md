@@ -33,8 +33,7 @@
 ---
 ## Contribution Graph 
 
-![Zunairah's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Zunairah-k&theme=react-dark&area=true&hide_border=true)
-
+![Zunairah's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Zunairah-k&theme=react-dark&area=true&hide_border=true)
 ---
 
 ## 🚀 Projects
@@ -62,11 +61,11 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunairah-maasfa-khan5)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zunairah-k)  
+
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunairahmaasfakhan@gmail.com)
 ---
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Zunairah-k)
 
 <!---
 Zunairah-k/Zunairah-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
