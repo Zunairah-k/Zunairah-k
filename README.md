@@ -30,8 +30,8 @@
 ![Zunairah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zunairah-k&show_icons=true&theme=dracula&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zunairah-k&layout=compact&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zunairah-k&theme=dracula)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zunairah-k&theme=dracula)
 ---
 ## 📈 Contribution Graph 
 
