@@ -33,7 +33,7 @@
 ---
 ## Contribution Graph 
 
-![Zunairah's Contributions](https://ghchart.rshah.org/Zunairah-k)
+![Zunairah's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Zunairah-k&theme=react-dark&area=true&hide_border=true)
 
 ---
 
