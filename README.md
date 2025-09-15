@@ -31,6 +31,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zunairah-k&theme=dracula)
 
 ---
+## Contribution Graph 
+
+![Zunairah's Contributions](https://ghchart.rshah.org/Zunairah-k)
+
+---
 
 ## 🚀 Projects
 
@@ -56,10 +61,9 @@
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/zunairah-maasfa-khan5)  
-- [GitHub](https://github.com/Zunairah-k)  
-- Email: zunairahmaasfakhan@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunairah-maasfa-khan5)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zunairah-k)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunairahmaasfakhan@gmail.com)
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Zunairah-k)
